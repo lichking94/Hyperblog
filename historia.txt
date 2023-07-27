@@ -7,3 +7,5 @@ Siempre le ha costado la programacion pero por primera vez esta muy cerca.
 Luego de varios años se puso a estudiar nuevamente y ha podido entender cada vez mas
 
 Ya lleva dos cursos y le va bien sin problemas
+
+ya se usar la terminal y vim
