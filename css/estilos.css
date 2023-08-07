@@ -8,7 +8,7 @@ body
     
 }
 
-#cabecera
+#cabecera 
 {
 
     background: blue;
@@ -19,6 +19,13 @@ body
     padding: 0.5em;
 }
 
+#cabecera #logo
+
+{
+
+   width: 200px;
+   vertical-align: middle;
+}
 
 #container
 {
