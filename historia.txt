@@ -5,11 +5,10 @@ Tiene 29 años y nacio en Venezuela
 Siempre le ha costado la programacion pero por primera vez esta muy cerca.
 
 Luego de varios años se puso a estudiar nuevamente y ha podido entender cada vez mas
-
+Main 2
 Ya lleva dos cursos y le va bien sin problemas
 
 ya se usar la terminal y vim
 
 hoy hizo su primera pagina web y puso estilos 
 
-Main 2
