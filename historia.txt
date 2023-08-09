@@ -11,3 +11,5 @@ Ya lleva dos cursos y le va bien sin problemas
 ya se usar la terminal y vim
 
 hoy hizo su primera pagina web y puso estilos 
+
+Main 2
